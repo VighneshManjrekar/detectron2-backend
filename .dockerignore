@@ -1,0 +1,10 @@
+Dockerfile
+README.md
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+.vscode
+.vscode-test
+test
+help.txt

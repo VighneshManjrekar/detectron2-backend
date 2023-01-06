@@ -1,0 +1,5 @@
+__pycache__
+.vscode
+.vscode-test
+model_0299999.pth
+help.txt
