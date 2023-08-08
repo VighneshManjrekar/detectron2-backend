@@ -49,6 +49,7 @@ const predict = () => {
 
   const formData = new FormData();
   formData.append("img", img);
+  // use own api link this instance is for demo only and may not work
   fetch("https://predict-ebi2uybfrq-el.a.run.app/", {
     method: "POST",
     body: formData,
